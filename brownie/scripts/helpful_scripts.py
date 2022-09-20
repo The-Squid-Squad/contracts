@@ -1,4 +1,4 @@
-from brownie import SquidSquad, network, accounts, config, interface
+from brownie import TheSquidSquad, network, accounts, config, interface
 
 NON_FORKED_LOCAL_BLOCKCHAIN_ENVIRONMENTS = [
     "hardhat",
